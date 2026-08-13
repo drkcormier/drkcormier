@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 💾 Programming/Scripting Projects C++/Python🐍
 
-- **[Password Manager - C++]()
+- **[Password Manager - C++](https://github.com/drkcormier/password-manager)**
 
 <hr/>
 
