@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Harborlight)](https://github.com/drkcormier/threat-hunt-harborlight/)**
 - **[Threat Hunting Scenario (Operation OVERREACH)](https://github.com/drkcormier/threat-hunt-overreach/)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/drkcormier/threat-hunting-scenario-tor/)**
 - **[Threat Hunting Scenario (Just Another Day - Part 1)](https://github.com/drkcormier/threat-hunt-just-another-day-part-1)**
